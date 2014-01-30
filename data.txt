@@ -1,0 +1,37 @@
+extensiones|aegonzac	4782
+extensiones|cmalave 	4743
+extensiones|djgonzad	4732
+extensiones|gpadron 	4724
+extensiones|hharris 	4739
+extensiones|jparejo 	4794
+extensiones|jlrivera	4860
+extensiones|mamarrer	4713
+extensiones|rarenas 	4776
+extensiones|rveliz  	4766
+extensiones|tfreites	4731
+extensiones|CAJA    	7092260
+-
+maquinas|aelizond	\\nomacogi709
+maquinas|ajrodrif	\\nomacogi672
+maquinas|cmalave	\\nomacogi462
+maquinas|djgonzad	\\nomacogi699
+maquinas|hharris	\\nomacogi702
+maquinas|mamarrer	\\nomacogi470
+maquinas|mdomador	\\nomacogi461
+maquinas|msimoni	\\nomacogi362
+maquinas|tfreites	\\nomacogi710
+maquinas|vceballo	\\nomacogi406
+-
+cuentas|501878007900626160
+cuentas|501878007900538191
+cuentas|0133 0007 1510 0004 9630
+-
+C:
+C:\
+M:\xmsim\
+M:\xmsim\asistonto_lite.jpg
+-
+3452162
+ag9414318
+cescarsa	j789456123
+portal|ecolls	lgwiggap3
